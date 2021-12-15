@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Mobile Pay</string>
+
+    <!-- Pos Strings -->
+
+    <string name="pos_view">POS View</string>
+    <string name="generate_qr">Generate QR</string>
+    <string name="generate_new_qr">Generate New QR</string>
+    <string name="qr_image_description">QR image</string>
+    <string name="amount_hint">Amount</string>
+
+    <!-- App Strings -->
+
+    <string name="mobile_app_view">Mobile App View</string>
+    <string name="scan_the_qr">Scan The QR</string>
+    <string name="return_to_home_screen">Return to Home Screen</string>
+    <string name="see_transactions">See Transactions</string>
+    <string name="payment_status_image_description">Payment status image</string>
+    <string name="toast_message">Please generate a QR first</string>
+
+</resources>
